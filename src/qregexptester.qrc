@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.png</file>
+        <file>res/clear.png</file>
+        <file>res/clear2.png</file>
+        <file>res/exit.png</file>
+        <file>res/generate.png</file>
+        <file>res/help.png</file>
+        <file>res/home.png</file>
+        <file>res/import.png</file>
+        <file>res/info.png</file>
+        <file>res/load.png</file>
+        <file>res/new.png</file>
+        <file>res/run.png</file>
+        <file>res/save.png</file>
+    </qresource>
+</RCC>
