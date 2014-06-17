@@ -3,7 +3,7 @@ QRegExpTester
 
 A testbench utility for the QRegExp of Qt toolkit.
 
-QRegExoTester provides a convenient utility to write and test QRegExp class.
+QRegExpTester provides a convenient utility to write and test QRegExp class.
 With this utility, you can test your regular expression with testee string and
 check the result which generated from QRegExp class. 
 
